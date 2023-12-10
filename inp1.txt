@@ -1,0 +1,6 @@
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complicated is better than confusing.
+The easy is better than the impossible.
+
